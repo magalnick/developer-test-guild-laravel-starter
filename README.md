@@ -37,7 +37,9 @@
 
 ## Finally...
 
-Don't be afraid to get creative and have some fun!
+Don't be afraid to get creative and have some fun! It's not like your future's at stake...
+
+...or is it? Bwa ha ha!
 
 ## Installation instructions
 
